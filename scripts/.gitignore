@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sensitive files
+.env
+*.pem
+*.key
+
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# Logs
+logs/*.log
+
+# Raw datasets
+data/raw/
